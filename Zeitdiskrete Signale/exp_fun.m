@@ -1,7 +1,7 @@
 #!/usr/bin/env octave
 
 
-function main()
+function exp_fun()
     n_pos = 0:10;
     n = -10:10;
 
